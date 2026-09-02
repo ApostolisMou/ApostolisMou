@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Apostolis — Electrical & Computer Engineering, Hellenic Mediterranean University" width="100%"/>
+</p>
+
 ### Hi, I'm Apostolis 👋
 
 Second-year Electrical & Computer Engineering student at the **Hellenic Mediterranean University (HMU), Heraklion**, currently building a foundation in networking, systems, and security fundamentals. Still early in the journey — learning by building small, complete tools rather than big claims.
@@ -24,21 +28,3 @@ Interested in **cybersecurity**, especially the networking/systems side of it: h
 - Coursework in electronics, signals, and programming fundamentals at HMU
 - Small Python security tools (see pinned repos) to learn networking and systems concepts hands-on
 - Working through the basics of Linux, TCP/IP, and common attack/defense patterns
-
----
-
-### GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ApostolisMou&show_icons=true&hide_title=true&hide_border=true&bg_color=1B3A2B&title_color=EDE4D3&icon_color=8FA888&text_color=D8CBB0" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApostolisMou&layout=compact&hide_border=true&bg_color=1B3A2B&title_color=EDE4D3&text_color=D8CBB0&langs_count=6" alt="Top languages"/>
-</p>
-
----
-
-### Get in touch
-
-<p>
-  <a href="mailto:amouziouras@gmail.com"><img src="https://img.shields.io/badge/Email-2B1D14?style=for-the-badge&logo=gmail&logoColor=EDE4D3" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-2B1D14?style=for-the-badge&logo=linkedin&logoColor=EDE4D3" alt="LinkedIn"/></a>
-</p>

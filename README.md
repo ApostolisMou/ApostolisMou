@@ -16,10 +16,10 @@ learning by building small networking/security tools in python, java and c.
 ### core skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,c,linux,git,docker,bash,github" alt="skill icons"/>
+  <img src="https://skillicons.dev/icons?i=py,java,c,js,linux,git,docker,bash,github" alt="skill icons"/>
 </p>
 
-**languages** — Python, Java, C
+**languages** — Python, Java, C, JavaScript
 
 **security** — Linux, TCP/IP basics, log analysis, cryptography basics
 

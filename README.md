@@ -2,10 +2,14 @@
   <img src="assets/banner.svg" alt="banner" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=8AB4F8&center=true&vCenter=true&width=500&lines=cs+student+%40+hmu+crete;learning+cybersecurity;building+small+tools" />
+</p>
+
 ### about
 
-φοιτητής ηλεκτρολόγων μηχανικών & μηχανικών υπολογιστών στο ελμεπα (κρήτη), με ενδιαφέρον στην κυβερνοασφάλεια.
-μαθαίνω χτίζοντας μικρά εργαλεία δικτύων/ασφάλειας σε python, java και c.
+cs student at hmu (crete, greece), interested in cybersecurity.
+learning by building small networking/security tools in python, java and c.
 
 📧 [amouziouras@gmail.com](mailto:amouziouras@gmail.com)
 
@@ -17,7 +21,7 @@
 
 **languages** — Python, Java, C
 
-**security** — Linux, δίκτυα / TCP-IP βασικά, ανάλυση logs, κρυπτογραφία (βασικά)
+**security** — Linux, TCP/IP basics, log analysis, cryptography basics
 
 **tools** — Git, Docker, Bash, Wireshark
 

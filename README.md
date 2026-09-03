@@ -1,40 +1,29 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Apostolis — Electrical & Computer Engineering, Hellenic Mediterranean University" width="100%"/>
+  <img src="assets/banner.svg" alt="banner" width="100%"/>
 </p>
 
-### Hi, I'm Apostolis 👋
+### about
 
-Second-year Electrical & Computer Engineering student at the **Hellenic Mediterranean University (HMU), Heraklion**, currently building a foundation in networking, systems, and security fundamentals. Still early in the journey — learning by building small, complete tools rather than big claims.
+φοιτητής ηλεκτρολόγων μηχανικών & μηχανικών υπολογιστών στο ελμεπα (κρήτη), με ενδιαφέρον στην κυβερνοασφάλεια.
+μαθαίνω χτίζοντας μικρά εργαλεία δικτύων/ασφάλειας σε python, java και c.
 
-Interested in **cybersecurity**, especially the networking/systems side of it: how services get scanned, how logs reveal an attack in progress, how "secure by default" so often isn't.
+📧 [amouziouras@gmail.com](mailto:amouziouras@gmail.com)
 
----
-
-### Tech I'm learning with
+### core skills
 
 <p>
-  <img src="https://img.shields.io/badge/Python-1B3A2B?style=for-the-badge&logo=python&logoColor=EDE4D3" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-6F4E37?style=for-the-badge&logo=c&logoColor=EDE4D3" alt="C"/>
-  <img src="https://img.shields.io/badge/Linux-1B3A2B?style=for-the-badge&logo=linux&logoColor=EDE4D3" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Bash-6F4E37?style=for-the-badge&logo=gnubash&logoColor=EDE4D3" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Git-1B3A2B?style=for-the-badge&logo=git&logoColor=EDE4D3" alt="Git"/>
-  <img src="https://img.shields.io/badge/Wireshark-6F4E37?style=for-the-badge&logo=wireshark&logoColor=EDE4D3" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Java-1B3A2B?style=for-the-badge&logo=openjdk&logoColor=EDE4D3" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=py,java,c,linux,git,docker,bash,github" alt="skill icons"/>
 </p>
 
----
+**languages** — Python, Java, C
 
-### Currently working on
+**security** — Linux, δίκτυα / TCP-IP βασικά, ανάλυση logs, κρυπτογραφία (βασικά)
 
-- Coursework in electronics, signals, and programming fundamentals at HMU
-- Small Python security tools (see pinned repos) to learn networking and systems concepts hands-on
-- Working through the basics of Linux, TCP/IP, and common attack/defense patterns
+**tools** — Git, Docker, Bash, Wireshark
 
----
+### projects
 
-### Featured Projects
-
-| Repo | What it does | Tech |
+| repo | what it does | tech |
 |---|---|---|
 | [`port-scanner`](https://github.com/ApostolisMou/port-scanner) | Multithreaded TCP port scanner (stdlib only) — built to understand how tools like nmap work under the hood | Python |
 | [`log-analyzer`](https://github.com/ApostolisMou/log-analyzer) | Parses SSH auth logs and flags IPs with brute-force-like failed login patterns | Python |

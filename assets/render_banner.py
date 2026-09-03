@@ -13,8 +13,8 @@ HERE = Path(__file__).parent
 TXT_PATH = HERE / "banner.txt"
 PNG_PATH = HERE / "banner.png"
 
-BG_COLOR = "#0d1117"
-DOT_COLOR = "#c9d1d9"
+BG_COLOR = "#1a2f4a"
+DOT_COLOR = "#d8d5a8"
 
 BRAILLE_BASE = 0x2800
 

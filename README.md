@@ -19,6 +19,7 @@ Interested in **cybersecurity**, especially the networking/systems side of it: h
   <img src="https://img.shields.io/badge/Bash-6F4E37?style=for-the-badge&logo=gnubash&logoColor=EDE4D3" alt="Bash"/>
   <img src="https://img.shields.io/badge/Git-1B3A2B?style=for-the-badge&logo=git&logoColor=EDE4D3" alt="Git"/>
   <img src="https://img.shields.io/badge/Wireshark-6F4E37?style=for-the-badge&logo=wireshark&logoColor=EDE4D3" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Java-1B3A2B?style=for-the-badge&logo=openjdk&logoColor=EDE4D3" alt="Java"/>
 </p>
 
 ---

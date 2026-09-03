@@ -1,0 +1,38 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Apostolis — Electrical &amp; Computer Engineering, Hellenic Mediterranean University">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#16281F"/>
+      <stop offset="100%" stop-color="#2B1D14"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="30%" r="45%">
+      <stop offset="0%" stop-color="#EDE4D3" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#EDE4D3" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#sky)"/>
+  <rect width="1200" height="280" fill="url(#glow)"/>
+
+  <!-- back ridge -->
+  <polygon points="0,190 90,140 190,175 300,120 430,168 560,130 700,172 840,138 960,178 1080,145 1200,180 1200,280 0,280"
+           fill="#3E5B4A" opacity="0.35"/>
+
+  <!-- mid ridge -->
+  <polygon points="0,220 110,175 240,210 360,160 500,205 630,168 760,208 900,172 1040,212 1200,178 1200,280 0,280"
+           fill="#6F4E37" opacity="0.45"/>
+
+  <!-- front tree line -->
+  <g fill="#12201A">
+    <polygon points="40,280 70,205 100,280"/>
+    <polygon points="85,280 118,165 151,280"/>
+    <polygon points="140,280 168,220 196,280"/>
+    <polygon points="1010,280 1040,215 1070,280"/>
+    <polygon points="1060,280 1093,160 1126,280"/>
+    <polygon points="1115,280 1143,210 1171,280"/>
+  </g>
+  <rect x="0" y="255" width="1200" height="25" fill="#12201A"/>
+
+  <text x="70" y="128" font-family="Georgia, 'Times New Roman', serif" font-size="60" font-weight="700" fill="#EDE4D3" letter-spacing="2">APOSTOLIS</text>
+  <text x="72" y="164" font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="#C9B99A" letter-spacing="1">Electrical &amp; Computer Engineering · Hellenic Mediterranean University</text>
+  <text x="72" y="192" font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="#8FA888" letter-spacing="1">Learning cybersecurity, one small tool at a time</text>
+</svg>

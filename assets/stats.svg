@@ -1,9 +1,0 @@
-<svg width="420" height="130" viewBox="0 0 420 130" xmlns="http://www.w3.org/2000/svg">
-  <title>GitHub stats — apostolis</title>
-  <text x="20" y="30" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="14" xml:space="preserve">
-    <tspan x="20" font-weight="bold" fill="#E8A33D">$ gh stats --user apostolis</tspan>
-    <tspan x="20" dy="20" fill="#E8A33D">  Repos</tspan><tspan fill="#6B4A3A">.....................</tspan><tspan fill="#F5E6D3"> 5</tspan>
-    <tspan x="20" dy="20" fill="#E8A33D">  Commits</tspan><tspan fill="#6B4A3A">...................</tspan><tspan fill="#F5E6D3"> 7</tspan>
-    <tspan x="20" dy="20" fill="#E8A33D">  Since</tspan><tspan fill="#6B4A3A">.....................</tspan><tspan fill="#F5E6D3"> 2026</tspan>
-  </text>
-</svg>

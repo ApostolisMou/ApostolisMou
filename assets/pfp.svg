@@ -1,0 +1,34 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pacific Northwest mountain badge avatar">
+  <defs>
+    <linearGradient id="pfpbg" x1="10%" y1="0%" x2="90%" y2="100%">
+      <stop offset="0%" stop-color="#22402F"/>
+      <stop offset="100%" stop-color="#2B1D14"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="500" height="500" fill="url(#pfpbg)"/>
+
+  <!-- sun -->
+  <circle cx="250" cy="195" r="52" fill="#EDE4D3" opacity="0.9"/>
+  <circle cx="250" cy="195" r="66" fill="none" stroke="#EDE4D3" stroke-width="2" opacity="0.35"/>
+  <circle cx="250" cy="195" r="80" fill="none" stroke="#EDE4D3" stroke-width="2" opacity="0.2"/>
+
+  <!-- back ridge -->
+  <polygon points="-20,350 60,280 140,330 230,250 320,320 400,265 520,340 520,520 -20,520"
+           fill="#5C7A5C" opacity="0.55"/>
+
+  <!-- mid ridge -->
+  <polygon points="-20,400 80,330 170,390 250,310 340,385 430,320 520,395 520,520 -20,520"
+           fill="#6F4E37" opacity="0.75"/>
+
+  <!-- front tree line -->
+  <rect x="-20" y="455" width="540" height="70" fill="#14231B"/>
+  <g fill="#14231B">
+    <polygon points="65,458 98,378 131,458"/>
+    <polygon points="112,458 148,343 184,458"/>
+    <polygon points="318,458 352,353 386,458"/>
+    <polygon points="366,458 397,388 428,458"/>
+  </g>
+
+  <rect x="10" y="10" width="480" height="480" fill="none" stroke="#EDE4D3" stroke-width="6" opacity="0.5"/>
+</svg>

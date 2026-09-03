@@ -4,6 +4,6 @@
     <tspan x="20" font-weight="bold" fill="#E8A33D">$ gh stats --user apostolis</tspan>
     <tspan x="20" dy="20" fill="#E8A33D">  Repos</tspan><tspan fill="#6B4A3A">.....................</tspan><tspan fill="#F5E6D3"> 5</tspan>
     <tspan x="20" dy="20" fill="#E8A33D">  Commits</tspan><tspan fill="#6B4A3A">...................</tspan><tspan fill="#F5E6D3"> 7</tspan>
-    <tspan x="20" dy="20" fill="#E8A33D">  Stars</tspan><tspan fill="#6B4A3A">.....................</tspan><tspan fill="#F5E6D3"> 0</tspan>
+    <tspan x="20" dy="20" fill="#E8A33D">  Since</tspan><tspan fill="#6B4A3A">.....................</tspan><tspan fill="#F5E6D3"> 2026</tspan>
   </text>
 </svg>

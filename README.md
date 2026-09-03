@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/stats.svg" alt="GitHub stats — Repos: 5, Commits: 7, Stars: 0"/>
+  <img src="assets/stats.svg" alt="GitHub stats — Repos: 5, Commits: 7, Since: 2026"/>
 </p>
 
 ### Featured Projects

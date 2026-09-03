@@ -8,7 +8,7 @@
 
 ### about
 
-ece student at hmu (crete, greece), interested in cybersecurity.
+19 year old ECE student at HMU (Heraklion, Greece), interested in cybersecurity.
 learning by building small networking/security tools in python, java and c.
 
 📧 [amouziouras@gmail.com](mailto:amouziouras@gmail.com)

@@ -11,6 +11,9 @@
 19 year old ECE student at HMU (Heraklion, Greece), interested in cybersecurity.
 learning by building small networking/security tools in python, java and c.
 
+🌐 [https://mouziouras.dev](https://mouziouras.dev)
+
+📧 [me@mouziouras.dev](mailto:me@mouziouras.dev)
 📧 [amouziouras@gmail.com](mailto:amouziouras@gmail.com)
 
 ### core skills
